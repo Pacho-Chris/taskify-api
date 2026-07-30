@@ -1,10 +1,10 @@
 {
   "name": "taskify-api",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "API REST modular para la gestión de tareas construida con NestJS y TypeScript",
+  "author": "Christian Pacho",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "MIT",
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
